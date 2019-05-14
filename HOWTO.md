@@ -9,13 +9,19 @@ ESP-8266 - Backup system goes on the ESP8266.
 RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics.
 
 **USER/PASSWORD**
+
 If you use the recommended OS link below(a working clone of the Raspberry Pi used for this project)
+
 user/password for the `recommended` raspi is pi/raspberry
+
 You can access it with ssh pi@raspberrypizzle2.local
+
 [Raspi Copy Link (Recommended)](https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing)
 
 user/password for the `generic` raspi is pi/raspberry
+
 You can access it with ssh pi@raspberrypi.local
+
 [Raspbian 0S Link (Generic)](https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing)
 
 **SOFTWARE HOW TO (for MAC):**
