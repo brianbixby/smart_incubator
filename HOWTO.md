@@ -1,7 +1,11 @@
 **PROJECT LAYOUT**
+
 app - HTML app. Host it anywhere to have the web UI.
+
 ArduinoMega-2560 - Goes on the mega, used to drive RAMPS.
+
 ESP-8266 - Backup system goes on the ESP8266.
+
 RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics.
 
 **USER/PASSWORD**
