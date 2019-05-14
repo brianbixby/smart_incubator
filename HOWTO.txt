@@ -1,0 +1,8 @@
+app - HTML app. Host it anywhere to have the web UI
+grblForCyclone - Goes on the mega, used to drive RAMPS
+Mycotronics - Goes on the ESP8266
+Pycotronics - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics . You should also add a line in rc.local to make it run at startup.
+
+user/pass for the `old` raspi is pi/42
+You can access it with ssh pi@raspi.local
+
