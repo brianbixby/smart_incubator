@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final.JPG "Smart Incubator")
+![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final.jpg "Smart Incubator")
 **WHO**
 
 I lead a team of **42 Robotics Lab students** that teamed up with **Stanford Bioengineering researchers** in the [Endy Lab](https://openwetware.org/wiki/Endy_Lab) to create a smart-incubator for their mushroom-related research.
