@@ -7,11 +7,13 @@ RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/P
 **USER/PASSWORD**
 If you use the recommended OS link below(a working clone of the Raspberry Pi used for this project)
 user/password for the `recommended` raspi is pi/raspberry
+
 You can access it with ssh pi@raspberrypizzle2.local
 [Raspi Copy Link (Recommended)](https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing)
 
 user/password for the `generic` raspi is pi/raspberry
 You can access it with ssh pi@raspberrypi.local
+
 [Raspbian 0S Link (Generic)](https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing)
 
 **SOFTWARE HOW TO (for MAC):**
@@ -25,7 +27,7 @@ You can access it with ssh pi@raspberrypi.local
             add empty ssh file to root of sd card (/Volumes/boot)
                 (ex. touch /Volumes/boot/ssh)
             add wpa_supplicant.conf file to root of sd card (ex. /Volumes/boot/wpa_supplicant.conf) with text below:
-        
+        ```
             ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
             update_config=1
             country=US
@@ -36,7 +38,7 @@ You can access it with ssh pi@raspberrypi.local
                 key_mgmt=WPA-PSK
                 scan_ssid=1
             }
-
+        ```
             ** hint: make your own hot spot from imac with ethernet: https://www.howtogeek.com/214053/how-to-turn-your-mac-into-a-wi-fi-hotspot/**
 
         safely eject sd card from your MAC and put in Pi and turn pi on 
