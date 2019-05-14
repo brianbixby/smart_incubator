@@ -39,9 +39,11 @@ Mycelium (the vegetative portion of mushrooms) materials are at the **forefront 
 + **DB25-M2 Connector:** is a repurposed printer cable that is used to create an easily detachable compartmentalized "Brain Box" that is separate from the incubator itself. This way if there is something goes wrong or needs fixing all you have to do is disconnect the "Brain Box" from the rest of the incubator to troubleshoot.
 
 **MY CONTRIBUTIONS**
+
 I was the 2nd generation of 42 RoboLab Students to work on this project. With that said I was not given too much. I was given a broken prototype with zero documentation and told to fix the bugs and improve the project in some way. I had 5 teammates come and go during the coure of this project, but I was involved in every aspect of the project except for 3D printing custom plastic pieces. I debugged and fixed the initial prototype, redesigned/simplified the system's wiring and hardware layout. Added new functionality, including a detachable "Brain Box", a second stepper motor that works in unison with the first (doubling the number of samples that the incubator can hold). Lastly, I actually built out and assembled the incubator itself and created documentation (howto.txt) for future generations of 42 Students so knowledge loss in minimized and they are able to improve upon my design.
 
 **DETAILED INSTRUCTIONS**
+
 For detailed instructions on how to recreate this project yourself please read the HOWTO.md.
               
               
