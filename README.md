@@ -1,4 +1,4 @@
-![alt text](https://github.com/brianbixby/smart_incubator/Images/IMG_0463.JPG "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/IMG_0463.JPG "Logo Title Text 1")
 **WHO**
 
 I lead a team of **42 Robotics Lab students** that teamed up with **Stanford Bioengineering researchers** in the [Endy Lab](https://openwetware.org/wiki/Endy_Lab) to create a smart-incubator for their mushroom-related research.
@@ -42,7 +42,7 @@ IMG_0463.JPG
 **MY CONTRIBUTIONS**
 
 I was the 2nd generation of 42 RoboLab Students to work on this project. With that said, I was only given a broken prototype with zero documentation and told to fix the bugs and improve the project in some way (what I was given is pictured below).
-![alt text](https://github.com/brianbixby/smart_incubator/Images/IMG_0463.JPG "Broken Prototype")
+![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/IMG_0463.JPG "Broken Prototype")
 I had 5 teammates come and go during the coure of this project, but I was involved in every aspect of the project except for 3D printing custom plastic pieces. I debugged and fixed the initial prototype, redesigned/simplified the system's wiring and hardware layout. Added new functionality, including a detachable "Brain Box", a second stepper motor that works in unison with the first (doubling the number of samples that the incubator can hold). Lastly, I actually built out and assembled the incubator itself and created documentation (howto.txt) for future generations of 42 Students so knowledge loss in minimized and they are able to improve upon my design.
 
 **DETAILED INSTRUCTIONS**
