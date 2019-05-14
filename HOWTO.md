@@ -1,28 +1,28 @@
 **PROJECT LAYOUT**
 
-app - HTML app. Host it anywhere to have the web UI.
+    app - HTML app. Host it anywhere to have the web UI.
 
-ArduinoMega-2560 - Goes on the mega, used to drive RAMPS.
+    ArduinoMega-2560 - Goes on the mega, used to drive RAMPS.
 
-ESP-8266 - Backup system goes on the ESP8266.
+    ESP-8266 - Backup system goes on the ESP8266.
 
-RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics.
+    RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics.
 
 **USER/PASSWORD**
 
-If you use the recommended OS link below(a working clone of the Raspberry Pi used for this project)
+    If you use the recommended OS link below(a working clone of the Raspberry Pi used for this project)
 
-user/password for the `recommended` raspi is pi/raspberry
+    user/password for the `recommended` raspi is pi/raspberry
 
-You can access it with ssh pi@raspberrypizzle2.local
+    You can access it with ssh pi@raspberrypizzle2.local
 
-[Raspi Copy Link (Recommended)](https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing)
+    [Raspi Copy Link (Recommended)](https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing)
 
-user/password for the `generic` raspi is pi/raspberry
+    user/password for the `generic` raspi is pi/raspberry
 
-You can access it with ssh pi@raspberrypi.local
+    You can access it with ssh pi@raspberrypi.local
 
-[Raspbian 0S Link (Generic)](https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing)
+    [Raspbian 0S Link (Generic)](https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing)
 
 **SOFTWARE HOW TO (for MAC):**
 ##### Step 1: Install OS to SD card: 
