@@ -1,6 +1,6 @@
-**DEMO**
+**DEMO (PLEASE CLICK IMAGE BELOW TO VIEW)**
 
-[![Smart Incubator Demo](http://img.youtube.com/vi/wpLVQCpF4qk/0.jpg)](http://www.youtube.com/watch?v=wpLVQCpF4qk)
+[![Smart Incubator Demo](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final.jpg)](http://www.youtube.com/watch?v=wpLVQCpF4qk)
 
 **WHO**
 
