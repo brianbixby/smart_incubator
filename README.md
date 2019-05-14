@@ -13,7 +13,6 @@ My team created an **open-source intelligent robotic system** for distributed bi
 **WHY**
 
 Mycelium (the vegetative portion of mushrooms) materials are at the **forefront of sustainability** because of the wide variety of applications: from textiles in the form of leather replacements to building materials to pharmaceuticals to mycoremediation (using fungi-based technology for environmental decontamination.)  So my team developed an easy-to-use, cost-effective smart incubator that automates much of the labor-intensive work.
-IMG_0463.JPG
 
 **HARDWARE COMPONENTS:**
 * 12V Power Supply
@@ -31,6 +30,7 @@ IMG_0463.JPG
 * Temperature sensor
 * 8 Channel Relay
 * DB25-M2 Connector (repurposed printer cable)
+* 2 12V Fans
 
 **TECHNICAL OVERVIEW:**
 + **Raspberry Pi:** runs the Temperature Uploader script which monitors the temperature and humidity (pin GCKLO4) with a DHT11 thermometer/humidity sensor and regulates the temperature (GPIO17) by controlling the Peltier Modules. The Pi is also responsible for sending GRBL commands that rotate the stepper motor it does this by creating a serial (UART) connection (5v, gnd, GPIO14, GPIO15) with the Arduino Mega through Ramps, which controlls the stepper motor. The Raspberry Pi also controls the LED lights (PWMO18), and camera through the microusb port.

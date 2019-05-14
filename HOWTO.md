@@ -1,34 +1,20 @@
-app - HTML app. Host it anywhere to have the web UI
-grblForCyclone - Goes on the mega, used to drive RAMPS
-Mycotronics - Goes on the ESP8266
-Pycotronics - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics . You should also add a line in rc.local to make it run at startup.
+**PROJECT LAYOUT**
+app - HTML app. Host it anywhere to have the web UI.
+ArduinoMega-2560 - Goes on the mega, used to drive RAMPS.
+ESP-8266 - Backup system goes on the ESP8266.
+RaspberryPi-0W - Goes on the raspi. Shoud be in the home folder, i.e. /home/pi/Pycotronics.
 
-user/pass for the `old` raspi is pi/42
-You can access it with ssh pi@raspi.local
+**USER/PASSWORD**
+If you use the recommended OS link below(a working clone of the Raspberry Pi used for this project)
+user/password for the `recommended` raspi is pi/raspberry
+You can access it with ssh pi@raspberrypizzle2.local
+[Raspi Copy Link (Recommended)](https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing)
 
+user/password for the `generic` raspi is pi/raspberry
+You can access it with ssh pi@raspberrypi.local
+[Raspbian 0S Link (Generic)](https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing)
 
-
-
-
-
-Raspbian 0S Link
-https://drive.google.com/file/d/1VSevMT91YZMNc5AJt7uOJ1KNMEJVltwO/view?usp=sharing 
-
-Raspi Copy Link
-https://drive.google.com/file/d/1eDRG-dHGEy0Bqikq-4YRSVNHcihzqKau/view?usp=sharing
-
-
-**#WHO**
-The **42 Robotics Lab** has teamed up with **Stanford Bioengineering researcheers** in the Endy Lab to create a smart-incubator for mushroom-related research.
-
-**#WHY**
-Mycelium (the vegetative portion of mushrooms) materials are at the **forefront of sustainability** because of the wide variety of applications: from textiles in the form of leather replacements to building materials to pharmaceuticals to mycoremediation (using fungi-based technology for environmental decontamination.)  So we’re developing an easy-to-use, cost-effective smart incubator that automates much of the labor-intensive work.
-
-**#WHAT**
-We created an **open-source intelligent robotic system** for distributed bioproduction research. Mycotronics automatically tracks the progress of research experiments in a regulated environment that users can change in real time at the click of a button, with all environmental statistics saved in real time to the cloud. Building costs are roughly 5-10 times less than the price of commercially available versions, and up to **100 times less** than higher-end models.
-
-
-**#SOFTWARE HOW TO (for MAC):**
+**SOFTWARE HOW TO (for MAC):**
 ##Step 1: Install OS to SD card:
         ###wipe sd card:
             use sdformatter or Disk Utility to wipe card, needs to be MS-DOS (FAT32) then unmount
