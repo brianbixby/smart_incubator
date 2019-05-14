@@ -1,7 +1,12 @@
-![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final.jpg "Smart Incubator")
+**DEMO**
+
+[![Smart Incubator Demo](http://img.youtube.com/vi/wpLVQCpF4qk/0.jpg)](http://www.youtube.com/watch?v=wpLVQCpF4qk)
+
 **WHO**
 
 I lead a team of **42 Robotics Lab students** that teamed up with **Stanford Bioengineering researchers** in the [Endy Lab](https://openwetware.org/wiki/Endy_Lab) to create a smart-incubator for their mushroom-related research.
+
+![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final.jpg "Smart Incubator")
 
 **WHAT**
 
@@ -11,6 +16,7 @@ My team created an **open-source intelligent robotic system** for distributed bi
 
 Mycelium (the vegetative portion of mushrooms) materials are at the **forefront of sustainability** because of the wide variety of applications: from textiles in the form of leather replacements to building materials to pharmaceuticals to mycoremediation (using fungi-based technology for environmental decontamination.)  So my team developed an easy-to-use, cost-effective smart incubator that automates much of the labor-intensive work.
 IMG_0463.JPG
+
 **HARDWARE COMPONENTS:**
 * 12V Power Supply
 * DC DC Converter
