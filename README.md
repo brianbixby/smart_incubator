@@ -1,7 +1,7 @@
 **DEMO VIDEO (PLEASE CLICK IMAGE BELOW TO VIEW)**
 
 [![Smart Incubator Demo](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/final_2steppers.JPG)](http://www.youtube.com/watch?v=XBAZ2BVmf6U)
-
+ 
 **WHO**
 
 I lead a team of **42 Robotics Lab students** that teamed up with **Stanford Bioengineering researchers** in the [Endy Lab](https://openwetware.org/wiki/Endy_Lab) to create a smart-incubator for their mushroom-related research.
