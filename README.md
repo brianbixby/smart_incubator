@@ -49,7 +49,7 @@ I was the 2nd generation of 42 RoboLab Students to work on this project. With th
 
 ![alt text](https://raw.githubusercontent.com/brianbixby/smart_incubator/master/Images/IMG_0463.JPG "Broken Prototype")
 
-I had 5 teammates come and go during the coure of this project, but I was involved in every aspect of the project except for 3D printing custom plastic pieces. I debugged and fixed the initial prototype, redesigned/simplified the system's wiring and hardware layout. Added new functionality, including a detachable "Brain Box", a second stepper motor that works in unison with the first (doubling the number of samples that the incubator can hold). Lastly, I actually built out and assembled the incubator itself and created documentation (howto.txt) for future generations of 42 Students so knowledge loss in minimized and they are able to improve upon my design.
+I had 5 teammates come and go during the course of this project, but I was involved in every aspect of the project except for 3D printing custom plastic pieces. I debugged and fixed the initial prototype, redesigned/simplified the system's wiring and hardware layout. Added new functionality, including a detachable "Brain Box", a second stepper motor that works in unison with the first (doubling the number of samples that the incubator can hold). Lastly, I actually built out and assembled the incubator itself and created documentation (howto.txt) for future generations of 42 Students so knowledge loss in minimized and they are able to improve upon my design.
 
 **DETAILED INSTRUCTIONS**
 
